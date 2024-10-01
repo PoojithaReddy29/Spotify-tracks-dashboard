@@ -1,1 +1,2 @@
 # Spotify-tracks-dashboard
+This dataset contains information on songs, artists, and playlists from the music streaming platform, Spotify. It can be used to explore patterns in popular artists, music consumption, genres, and playlists. The Spotify Tracks DB dataset can be utilized to create visualizations in PowerBI, helping users understand how people consume and interact with music on the Spotify platform.
